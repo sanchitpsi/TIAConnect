@@ -49,7 +49,7 @@
     </Symbol>
   </Access>
   <Blank UId="27" />
-  <Token Text="AND" UId="28" />
+  <Token Text="OR" UId="28" />
   <Blank UId="29" />
   <Access Scope="GlobalVariable" UId="30">
     <Symbol UId="31">
@@ -74,7 +74,7 @@
   <Blank UId="44" />
   <Access Scope="LiteralConstant" UId="45">
     <Constant UId="46">
-      <ConstantValue UId="48">1</ConstantValue>
+      <ConstantValue UId="48">0</ConstantValue>
     </Constant>
   </Access>
   <Token Text=";" UId="49" />
