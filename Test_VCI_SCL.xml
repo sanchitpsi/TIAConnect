@@ -49,7 +49,7 @@
     </Symbol>
   </Access>
   <Blank UId="27" />
-  <Token Text="AND" UId="28" />
+  <Token Text="OR" UId="28" />
   <Blank UId="29" />
   <Access Scope="GlobalVariable" UId="30">
     <Symbol UId="31">
